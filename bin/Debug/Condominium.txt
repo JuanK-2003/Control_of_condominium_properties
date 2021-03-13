@@ -1,0 +1,1 @@
+[{"OwnerID":"123456","HouseNumber":9,"Maintenance":1250.15},{"OwnerID":"456789","HouseNumber":15,"Maintenance":6502.25},{"OwnerID":"789123","HouseNumber":25,"Maintenance":125479.65}]
